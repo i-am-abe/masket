@@ -1,3 +1,3 @@
 # masket
 
-Coming soon!
+Hackathon project! 
